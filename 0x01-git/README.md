@@ -1,1 +1,1 @@
-git exercises
+starting to code today

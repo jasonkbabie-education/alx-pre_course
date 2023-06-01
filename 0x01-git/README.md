@@ -1,1 +1,1 @@
-First git exercise directory
+git exercises
